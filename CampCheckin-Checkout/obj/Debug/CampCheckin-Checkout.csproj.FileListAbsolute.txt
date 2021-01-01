@@ -1,0 +1,130 @@
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe.config
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.pdb
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csprojAssemblyReference.cache
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Form1.resources
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Properties.Resources.resources
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.GenerateResource.cache
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.exe
+C:\Users\davis\Documents\Visual Studio 2017\Projects\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.pdb
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe.config
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.pdb
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.dll
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.dll
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.pdb
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.xml
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csprojAssemblyReference.cache
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Form1.resources
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Properties.Resources.resources
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.GenerateResource.cache
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CopyComplete
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.exe
+C:\Users\davis\Documents\PROP\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.pdb
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x86\phidget22.dll
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x64\phidget22.dll
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe.config
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.pdb
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\BouncyCastle.Crypto.dll
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.dll
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.dll
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.dll
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.xml
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.xml
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.pdb
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.xml
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csprojAssemblyReference.cache
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Form1.resources
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Properties.Resources.resources
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.GenerateResource.cache
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CoreCompileInputs.cache
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CopyComplete
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.exe
+D:\Study\ProP\Final\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.pdb
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x86\phidget22.dll
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x64\phidget22.dll
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe.config
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.pdb
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\BouncyCastle.Crypto.dll
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.dll
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.dll
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.dll
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.xml
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.xml
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.pdb
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.xml
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csprojAssemblyReference.cache
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Form1.resources
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Properties.Resources.resources
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.GenerateResource.cache
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CoreCompileInputs.cache
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CopyComplete
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.exe
+D:\Study\ProP\GitSTUFFnew\prop\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.pdb
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x86\phidget22.dll
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x64\phidget22.dll
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe.config
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.pdb
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.dll
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.dll
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.dll
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.xml
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.xml
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.pdb
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.xml
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csprojAssemblyReference.cache
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Form1.resources
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Properties.Resources.resources
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.GenerateResource.cache
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CopyComplete
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.exe
+C:\Users\davis\Documents\PropFinal\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.pdb
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x86\phidget22.dll
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x64\phidget22.dll
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe.config
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.pdb
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.dll
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.dll
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.xml
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.xml
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.pdb
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.xml
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csprojAssemblyReference.cache
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Form1.resources
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Properties.Resources.resources
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.GenerateResource.cache
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CoreCompileInputs.cache
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CopyComplete
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.exe
+C:\Users\Ignas Apsega\Desktop\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.pdb
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x86\phidget22.dll
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\dll\x64\phidget22.dll
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe.config
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.exe
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\CampCheckin-Checkout.pdb
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.dll
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.dll
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.dll
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Google.Protobuf.xml
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\MySql.Data.xml
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.pdb
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\bin\Debug\Phidget22.NET.xml
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csprojAssemblyReference.cache
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Form1.resources
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin_Checkout.Properties.Resources.resources
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.GenerateResource.cache
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CoreCompileInputs.cache
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.csproj.CopyComplete
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.exe
+C:\Users\Ignas Apsega\Desktop\Fontys\Fontys 2nd Semester\PROP\presentation\EscalateMusicFestival\EscalateMusicFestival\CampCheckin-Checkout\obj\Debug\CampCheckin-Checkout.pdb
