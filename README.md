@@ -7,7 +7,7 @@ A university group project. We had a case where we had to operate a festival her
 3. Top Up festival account to buy goods.
 4. Manage goods
 
-The application was made to carry out some of these operations.
+The application was made for festival employees to carry out some of these operations.
 
 Some manuals of the applications:
 
